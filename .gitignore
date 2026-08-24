@@ -8,4 +8,6 @@ outputs/
 wandb/
 *.safetensors
 *.bin
+*.egg-info/
 .env
+.DS_Store
